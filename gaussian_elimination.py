@@ -37,6 +37,9 @@ for row in result:
     print(row)
 
 """
+OUTPUT
+
+
 Example execution:
 Enter the number of equations:
 3
@@ -56,3 +59,4 @@ Row Echelon Form:
 [0.0, 1.0, -1.0, -2.0]
 [0.0, 0.0, 1.0, 1.0]
 """
+
